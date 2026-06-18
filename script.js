@@ -1,5 +1,5 @@
 // Replace this URL with your backend URL once deployed
-const BACKEND_URL = "http://localhost:5000";
+const BACKEND_URL = "https://personal-portfolio-moqm.onrender.com";
 
 document.addEventListener("DOMContentLoaded", () => {
     fetchProjects();
